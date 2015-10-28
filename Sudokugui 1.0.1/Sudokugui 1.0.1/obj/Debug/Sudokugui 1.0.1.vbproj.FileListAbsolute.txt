@@ -1,0 +1,13 @@
+C:\Users\X78B\Documents\Visual Studio 2015\Projects\VBA-OV05-Kjølstad-Thorkil\Oppgave201\Sudokugui 1.0.1\Sudokugui 1.0.1\bin\Debug\Sudokugui 1.0.1.exe.config
+C:\Users\X78B\Documents\Visual Studio 2015\Projects\VBA-OV05-Kjølstad-Thorkil\Oppgave201\Sudokugui 1.0.1\Sudokugui 1.0.1\bin\Debug\Sudokugui 1.0.1.exe
+C:\Users\X78B\Documents\Visual Studio 2015\Projects\VBA-OV05-Kjølstad-Thorkil\Oppgave201\Sudokugui 1.0.1\Sudokugui 1.0.1\bin\Debug\Sudokugui 1.0.1.pdb
+C:\Users\X78B\Documents\Visual Studio 2015\Projects\VBA-OV05-Kjølstad-Thorkil\Oppgave201\Sudokugui 1.0.1\Sudokugui 1.0.1\bin\Debug\Sudokugui 1.0.1.xml
+C:\Users\X78B\Documents\Visual Studio 2015\Projects\VBA-OV05-Kjølstad-Thorkil\Oppgave201\Sudokugui 1.0.1\Sudokugui 1.0.1\obj\Debug\Sudokugui 1.0.1.vbprojResolveAssemblyReference.cache
+C:\Users\X78B\Documents\Visual Studio 2015\Projects\VBA-OV05-Kjølstad-Thorkil\Oppgave201\Sudokugui 1.0.1\Sudokugui 1.0.1\obj\Debug\Sudokugui_1._0._1.Form1.resources
+C:\Users\X78B\Documents\Visual Studio 2015\Projects\VBA-OV05-Kjølstad-Thorkil\Oppgave201\Sudokugui 1.0.1\Sudokugui 1.0.1\obj\Debug\Sudokugui_1._0._1.Resources.resources
+C:\Users\X78B\Documents\Visual Studio 2015\Projects\VBA-OV05-Kjølstad-Thorkil\Oppgave201\Sudokugui 1.0.1\Sudokugui 1.0.1\obj\Debug\Sudokugui 1.0.1.vbproj.GenerateResource.Cache
+C:\Users\X78B\Documents\Visual Studio 2015\Projects\VBA-OV05-Kjølstad-Thorkil\Oppgave201\Sudokugui 1.0.1\Sudokugui 1.0.1\obj\Debug\Sudokugui 1.0.1.exe
+C:\Users\X78B\Documents\Visual Studio 2015\Projects\VBA-OV05-Kjølstad-Thorkil\Oppgave201\Sudokugui 1.0.1\Sudokugui 1.0.1\obj\Debug\Sudokugui 1.0.1.xml
+C:\Users\X78B\Documents\Visual Studio 2015\Projects\VBA-OV05-Kjølstad-Thorkil\Oppgave201\Sudokugui 1.0.1\Sudokugui 1.0.1\obj\Debug\Sudokugui 1.0.1.pdb
+C:\Users\X78B\Documents\Visual Studio 2015\Projects\VBA-OV05-Kjølstad-Thorkil\Oppgave201\Sudokugui 1.0.1\Sudokugui 1.0.1\obj\Debug\Sudokugui_1._0._1.Form2.resources
+C:\Users\X78B\Documents\Visual Studio 2015\Projects\VBA-OV05-Kjølstad-Thorkil\Oppgave201\Sudokugui 1.0.1\Sudokugui 1.0.1\obj\Debug\Sudokugui_1._0._1.Form3.resources
